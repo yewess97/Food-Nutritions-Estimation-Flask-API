@@ -70,26 +70,28 @@ def predict():
                 if prediction[0][i] == max_prediction:
                     food_arr.append(food_category[i])
                     idx = data.index[data['Food'] == food_category[i]].tolist()
-                    food_arr.append(data['Category'][idx[0]])
                     food_arr.append(data['Calories'][idx[0]])
                     food_arr.append(data['Protein'][idx[0]])
                     food_arr.append(data['Fat'][idx[0]])
                     food_arr.append(data['Sat.Fat'][idx[0]])
                     food_arr.append(data['Fiber'][idx[0]])
                     food_arr.append(data['Carbs'][idx[0]])
+                    food_arr.append(data['Category'][idx[0]])
+                    food_arr.append(data['Medium Weight'][idx[0]])
                     break
 
             # Create a response JSON with the predicted food information
             api_data = {
                 'message': 'Success Prediction',
                 'food_name': food_arr[0],
-                'category': food_arr[1],
-                'calories': food_arr[2],
-                'protein': food_arr[3],
-                'fat': food_arr[4],
-                'sat_fat': food_arr[5],
-                'fiber': food_arr[6],
-                'carbs': food_arr[7],
+                'calories': food_arr[1],
+                'protein': food_arr[2],
+                'fat': food_arr[3],
+                'sat_fat': food_arr[4],
+                'fiber': food_arr[5],
+                'carbs': food_arr[6],
+                'category': food_arr[7],
+                'medium_weight': food_arr[8],
                 'image_src': image_src[0]
             }
 
