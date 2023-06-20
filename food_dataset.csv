@@ -1,0 +1,71 @@
+Food,Calories,Protein,Fat,Sat.Fat,Fiber,Carbs,Category,Medium Weight
+Avocado,160,2,15,2,7,9,Fruit,136
+Baked beans,100,5.5,0.5,0.1,5.5,18,Legumes,130
+Banana,89,1.1,0.3,0.1,2.6,23,Fruit,118
+Bean,347,24,1.2,0.2,19,63,Legumes,170
+Blackberries,43,1,0.5,0,5.3,10,Fruit,144
+Blueberries,57,0.7,0.3,0,2.4,14,Fruit,148
+Broccoli,34,2.8,0.4,0.1,2.6,6,Fruit & Vegetables,91
+Burrito,163,6.1,6.1,2.3,2.4,21,Fast Food,170
+Cabbage,25,1.3,0.1,0,2.5,6,Vegetables,89
+Cakes,371,4.2,18.4,3.4,1.4,50,Desserts,64
+Carrots,41,0.9,0.2,0,2.8,10,Vegetables,61
+Cauliflower,25,2,0.3,0.1,2.5,5,Vegetables,100
+Cheese,402,25,33,21,0,1,Dairy,28
+Cherries,50,1,0.3,0,1.6,12,Fruit,145
+Chocolate,546,6.9,31,18,7.3,61,Desserts,44
+Coffee,1,0.1,0,0,0,0,Beverages,240
+Cola drinks,139,0,0,0,0,36,Beverages,370
+Cookies,502,5.6,24.4,13.9,1.7,67,Desserts,50
+Corn,96,3.2,1.2,0.2,2.8,21,Grains,90
+Croissant,406,8.5,22.5,13.8,1.5,45,Bakery,57
+Cucumbers,15,0.6,0.2,0,0.7,3,Vegetables,104
+Curry soup,172,6.9,10.4,3.5,2.3,13,Soups,245
+Donuts,452,5.5,24.1,12.9,0.8,53,Desserts,63
+Dragon fruit,60,1.2,0.4,0.1,1.8,13,Fruit,198
+Egg,155,12.6,10.6,3.3,0,1,Dairy,50
+Eggplant,25,1,0.2,0,2.5,6,Vegetables,119
+Figs,74,0.8,0.3,0,2.9,19,Fruit,50
+French fried,312,3.4,15.3,2.4,2.8,41,Snacks,117
+Fried chicken,280,28,18,4.3,0,0,Fast Food,85
+Fried egg,196,12.6,15.3,4.7,0,1.6,Dairy,50
+Garlic,149,6.4,0.5,0.1,1,33,Vegetables,3
+Green apple,52,0.3,0.2,0,2.4,14,Fruit,182
+Green capsicum,20,1,0.2,0,1.7,4,Vegetables,74
+Green Onion,32,1.8,0.2,0,2.6,7,Vegetables,100
+Grilled chicken,165,31,3.6,1,0,0,Fast Food,85
+Hamburger,250,13,12,5,1,25,Fast Food,100
+Hard boiled egg,78,6.3,5.3,1.6,0,0.6,Dairy,50
+Honey,304,0.3,0,0,0.2,82,Sweets,21
+Kiwi,61,1.1,0.5,0.1,2.1,15,Fruit,76
+Lemon,29,1.1,0.3,0,2.8,9,Fruit,58
+Lobster,89,19,0.9,0.2,0,1.2,Seafood,100
+Macaroni,157,5.9,1.5,0.3,2.5,30,Grains,100
+Mackerel,305,20.8,24.5,5.2,0,0,Fish,85
+Marshmallow,318,0.8,0,0,0,81,Sweets,8
+Milk,42,3.4,1,0.6,0,5,Dairy,244
+Mushrooms,22,3.1,0.3,0.1,1,3,Vegetables,70
+Noodles,221,8.1,1.3,0.3,1.2,46,Grains,100
+Onion,40,1.1,0.1,0,1.7,9,Vegetables,110
+Orange,47,0.9,0.1,0,2.4,12,Fruit,140
+Papaya,43,0.5,0.3,0.1,1.8,11,Fruit,140
+Peaches,39,0.9,0.3,0,1.5,10,Fruit,98
+Peanuts,567,25.8,49.2,6.3,8.5,16,Nuts & Seeds,28
+Pineapple,50,0.5,0.1,0,1.4,13,Fruit,112
+Pizza,266,12.8,10.5,3.9,1.5,31,Fast Food,100
+Pomegranate,83,1.7,1.2,0.1,4,19,Fruit,100
+Popcorn,387,8.1,15.8,2.3,14.5,55,Snacks,100
+Potato,77,2,0.1,0,1.8,17,Vegetables,173
+Potato chips,536,6.6,35,4.5,3.9,49,Snacks,28
+Pumpkin,26,1,0.1,0,0.5,6,Vegetables,116
+Rambutan,68,0.7,0.2,0.1,0.9,16,Fruit,84
+Red apple,52,0.3,0.2,0,2.4,14,Fruit,182
+Red cabbage,31,1.4,0.1,0,2.1,7,Vegetables,90
+Red capsicum,31,1.2,0.3,0,1.5,6,Vegetables,74
+Rice,130,2.7,0.3,0.1,1.1,28,Grains,100
+Salmon,206,20.4,13.1,2.3,0,0,Fish,85
+Shrimp,99,20.3,1.5,0.4,0,0.2,Seafood,85
+Sunflower seeds,584,20.8,51.5,4.5,11.2,20,Nuts & Seeds,28
+Toast bread,265,8.8,2.5,0.7,3.7,50,Grains,100
+Watermelon,30,0.6,0.2,0,0.6,8,Fruit,286
+Yellow capsicum,27,1,0.3,0,1.5,5,Vegetables,74
